@@ -1,0 +1,28 @@
+
+Game 1 summary: 
+Champion: om
+Number of kills: 43
+Number of assists: 2
+Number of deaths: 4
+Game result: win
+
+Game 2 summary: 
+Champion: fred
+Number of kills: 54
+Number of assists: 2
+Number of deaths: 4
+Game result: win
+
+Game 3 summary: 
+Champion: bill
+Number of kills: 32
+Number of assists: 3
+Number of deaths: 2
+Game result: loss
+
+Session statistics: 
+Total games logged: 3
+Average kills: 43
+Average assists: 2.33333
+Average deaths: 3.33333
+Average win pecentage: 66.6667%
